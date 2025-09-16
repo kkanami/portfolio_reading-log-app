@@ -14,5 +14,5 @@
 
 ## 補足資料
 
-- [スクリーンショット資料（PDF）](./screenshots.pdf)
-- [要件定義書（PDF）](./requirements.pdf)
+- [スクリーンショット資料（PDF）](document./screenshots.pdf)
+- [要件定義書（PDF）](document./requirements.pdf)
